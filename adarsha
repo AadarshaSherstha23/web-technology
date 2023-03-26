@@ -8,7 +8,7 @@
 </head>
 <body>
 <p> it is a very good day here at herald college </p> 
-<p>look at this picture if doflamingo.</p>
-<img src="wallpape.jpg" alt="wall">
+<p>look at this picture of doflamingo.</p>
+<img src="images/wallpape.jpg" alt="wall">
 </body>
 </html>
